@@ -1,3 +1,3 @@
-module github.com/linchangbnu/zutil
+module zutil
 
 go 1.17
