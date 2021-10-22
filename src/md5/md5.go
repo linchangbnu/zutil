@@ -1,5 +1,5 @@
 package md5
 
-func Md5(source string) string {
+func Md5String(source string) string {
 	return "Hello World!"
 }
